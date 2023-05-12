@@ -14,6 +14,8 @@ Sometimes, great proposals are rejected due to the,
  
 So, even if your proposals are rejected, please contribute them as well.
 
+**If your proposal has been accepted, try to link the project announcement to the pull request.**
+
 ## Aim:
 
 If you are a GSoC candidate, this repository may help you write the proposals based on the organizations you are applying for.
