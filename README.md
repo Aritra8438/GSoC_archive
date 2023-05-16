@@ -47,3 +47,8 @@ Please follow the naming conventions.
 ## Commits
 
 - Write clear meaningful git commit messages (Do read [this](http://chris.beams.io/posts/git-commit/)).
+
+## Organizations with atleast one proposals
+- [x] Mathesar
+- [x] KDE
+
