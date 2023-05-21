@@ -81,18 +81,28 @@ $ git commit -m "Proposals for <org_name> added"
 $ git push origin <new branch>
 ``` 
 
-- There will be visible change in your repo, click on that and create a new pull request.
+- There will be a visible change in your repo, click on that and create a new pull request.
 
-Thank you for the contribution.
+Thank you for your contribution.
 
 
 ## Commits
 
 - Write clear meaningful git commit messages (Do read [this](http://chris.beams.io/posts/git-commit/)).
 
-## Organizations with atleast one proposal
+## Organizations with at least one proposal
 - [x] Mathesar
 - [x] KDE
 - [x] CircuitVerse
 - [x] CERN
+
+## Contributors' list
+For some reason, all the contributors, who have contributed to this repo, aren't showing up in the contributors' list. Some contributors shared their proposals with me to contribute to this repo. So, I'm keeping track of all the contributors here as well.
+So, I'm keeping track of all the contributors here as well.
+- [Yash Solanki](https://github.com/yashnator)
+- [Srirupa Datta](https://github.com/srirupa19)
+- [Jaydip Dey](https://github.com/jaydip1235)
+- [Tanmoy Sarkar](https://github.com/tanmoysrt/Tanmoy741127)
+- [Manas Pratim Biswas](https://github.com/sanam2405/)
+
 
