@@ -99,6 +99,10 @@ Thank you for your contribution.
 - [x] KDE
 - [x] CircuitVerse
 - [x] CERN
+- [x] gprMax
+- [x] Internet Health Report
+- [x] Postman
+- [x] GCC
 
 ## Contributors' list
 For some reason, all the contributors, who have contributed to this repo, aren't showing up in the contributors' list. Some contributors shared their proposals with me to contribute to this repo. So, I'm keeping track of all the contributors here as well.
@@ -108,5 +112,6 @@ So, I'm keeping track of all the contributors here as well.
 - [Jaydip Dey](https://github.com/jaydip1235)
 - [Tanmoy Sarkar](https://github.com/tanmoysrt/Tanmoy741127)
 - [Manas Pratim Biswas](https://github.com/sanam2405/)
+- [Rishi Raj](https://github.com/rsh-raj)
 
 
