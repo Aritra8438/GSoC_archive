@@ -47,6 +47,10 @@ Hello contributors, here is the contribution guideline you should follow:
 $ git clone https://github.com/YOUR_USERNAME/YOUR_FORK.git
 
 ```
+- Navigate to the Project repository
+```
+$ cd GSoC_archive
+```
 - Add Upstream to your clone
 
 ```
