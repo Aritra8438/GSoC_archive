@@ -115,4 +115,5 @@ So, I'm keeping track of all the contributors here as well.
 - [Rishi Raj](https://github.com/rsh-raj)
 - [Varsha DR](https://github.com/varshadr)
 
-
+## Proposal count
+This repo currently contains 11 proposals.
