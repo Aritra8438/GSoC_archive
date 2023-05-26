@@ -114,6 +114,7 @@ So, I'm keeping track of all the contributors here as well.
 - [Manas Pratim Biswas](https://github.com/sanam2405/)
 - [Rishi Raj](https://github.com/rsh-raj)
 - [Varsha DR](https://github.com/varshadr)
+- [Aritra](https://github.com/Aritra8438)
 
 ## Proposal count
 This repo currently contains 11 proposals.
