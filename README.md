@@ -103,18 +103,20 @@ Thank you for your contribution.
 - [x] Internet Health Report
 - [x] Postman
 - [x] GCC
+- [x] ArduPilot
 
 ## Contributors' list
 For some reason, all the contributors, who have contributed to this repo, aren't showing up in the contributors' list. Some contributors shared their proposals with me to contribute to this repo. So, I'm keeping track of all the contributors here as well.
 So, I'm keeping track of all the contributors here as well.
-- [Yash Solanki](https://github.com/yashnator)
-- [Srirupa Datta](https://github.com/srirupa19)
-- [Jaydip Dey](https://github.com/jaydip1235)
-- [Tanmoy Sarkar](https://github.com/tanmoysrt/Tanmoy741127)
-- [Manas Pratim Biswas](https://github.com/sanam2405/)
-- [Rishi Raj](https://github.com/rsh-raj)
-- [Varsha DR](https://github.com/varshadr)
+- [Yash](https://github.com/yashnator)
+- [Srirupa](https://github.com/srirupa19)
+- [Arsh](https://github.com/arshPratap)
+- [Jaydip](https://github.com/jaydip1235)
+- [Tanmoy](https://github.com/tanmoysrt/Tanmoy741127)
+- [Manas](https://github.com/sanam2405/)
+- [Rishi](https://github.com/rsh-raj)
+- [Varsha](https://github.com/varshadr)
 - [Aritra](https://github.com/Aritra8438)
 
 ## Proposal count
-This repo currently contains 11 proposals.
+This repo currently contains 13 proposals.
