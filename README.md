@@ -121,4 +121,4 @@ So, I'm keeping track of all the contributors here as well.
 - [thesujai](https://github.com/thesujai)
 
 ## Proposal count
-This repo currently contains 13 proposals.
+This repo currently contains 14 proposals.
