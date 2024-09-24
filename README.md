@@ -104,6 +104,7 @@ Thank you for your contribution.
 - [x] Postman
 - [x] GCC
 - [x] ArduPilot
+- [x] Learning Equality
 
 ## Contributors' list
 For some reason, all the contributors, who have contributed to this repo, aren't showing up in the contributors' list. Some contributors shared their proposals with me to contribute to this repo. So, I'm keeping track of all the contributors here as well.
@@ -117,6 +118,7 @@ So, I'm keeping track of all the contributors here as well.
 - [Rishi](https://github.com/rsh-raj)
 - [Varsha](https://github.com/varshadr)
 - [Aritra](https://github.com/Aritra8438)
+- [thesujai](https://github.com/thesujai)
 
 ## Proposal count
 This repo currently contains 13 proposals.
