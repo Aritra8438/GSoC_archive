@@ -123,6 +123,7 @@ So, I'm keeping track of all the contributors here as well.
 - [Aritra](https://github.com/Aritra8438)
 - [thesujai](https://github.com/thesujai)
 - [Kanahia](https://github.com/kanahia1)
+- [Rituraj](https://github.com/imxade)
 
 ## Proposal count
-This repo currently contains 16 proposals.
+This repo currently contains 17 proposals.
