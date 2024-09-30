@@ -4,7 +4,7 @@
 <p align="center"><b>An open-source project that aims to gather proposals and experiences of GSoC across the years</b></p>
 
 
-## Contribution:
+## Contribution
 
 If you have previously applied for GSoC, you might help build this repo by contributing the proposals you submitted or by sharing your experience in GSoC.
 
@@ -16,7 +16,7 @@ So, even if your proposals are rejected, please contribute them as well.
 
 **If your proposal has been accepted, try to link the project announcement to the pull request.**
 
-## Aim:
+## Aim
 
 If you are a GSoC candidate, this repository may help you write the proposals based on the organizations you are applying for.
 
