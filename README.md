@@ -36,7 +36,7 @@ If you are a GSoC candidate, this repository may help you write the proposals ba
 Please follow the naming conventions.
 
 
-## Contribution Workflow:
+## Contribution Workflow
 
 Hello contributors, here is the contribution guideline you should follow:
 
