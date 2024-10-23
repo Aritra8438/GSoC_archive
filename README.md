@@ -131,4 +131,4 @@ For some reason, all the contributors, who have contributed to this repo, aren't
 - [Rama](https://github.com/Rd4dev)
 
 ## Proposal count
-This repo currently contains 20 proposals.
+This repo currently contains 21 proposals.
