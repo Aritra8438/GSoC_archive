@@ -111,6 +111,8 @@ Thank you for your contribution.
 - [x] omegaUp
 - [x] The Honeynet Project
 - [x] Oppia Foundation
+- [x] CloudCV
+- [x] Submitty
 
 ## Contributors' list
 For some reason, all the contributors, who have contributed to this repo, aren't showing up in the contributors' list. Some contributors shared their proposals with me to contribute to this repo. So, I'm keeping track of all the contributors here as well.
@@ -129,6 +131,7 @@ For some reason, all the contributors, who have contributed to this repo, aren't
 - [Rituraj](https://github.com/imxade)
 - [Gaurav](https://github.com/errorxyz)
 - [Rama](https://github.com/Rd4dev)
+- [Suryansh](https://github.com/Suryansh5545)
 
 ## Proposal count
-This repo currently contains 21 proposals.
+This repo currently contains 23 proposals.
