@@ -132,6 +132,7 @@ For some reason, all the contributors, who have contributed to this repo, aren't
 - [Gaurav](https://github.com/errorxyz)
 - [Rama](https://github.com/Rd4dev)
 - [Suryansh](https://github.com/Suryansh5545)
+- [Karan](https://github.com/karan-palan)
 
 ## Proposal count
-This repo currently contains 23 proposals.
+This repo currently contains 24 proposals.
