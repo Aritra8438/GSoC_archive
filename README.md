@@ -120,6 +120,7 @@ Thank you for your contribution.
 - [x] Submitty
 - [x] Sugarlabs
 - [x] The Linux Foundation
+- [x] The JPF team
 
 ## Contributors' list
 
@@ -142,7 +143,8 @@ For some reason, all the contributors, who have contributed to this repo, aren't
 - [Suryansh](https://github.com/Suryansh5545)
 - [Karan](https://github.com/karan-palan)
 - [Uddhav](https://github.com/uddhavphatak)
+- [Harshvardhan](https://github.com/Harsh4902)
 
 ## Proposal count
 
-This repo currently contains 25 proposals.
+This repo currently contains 26 proposals.
