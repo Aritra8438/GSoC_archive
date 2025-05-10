@@ -5,6 +5,9 @@
 </p>
 <p align="center"><b>An open-source project that aims to gather proposals and experiences of GSoC across the years</b></p>
 
+## Please note that
+The 2025 proposals can be found on the repo [GSoC_archive_2025](https://github.com/SammanSarkar/GSoC_archive_2025). (Thanks [Samman](https://github.com/SammanSarkar) for his effort.)
+
 ## Contribution
 
 If you have previously applied for GSoC, you might help build this repo by contributing the proposals you submitted or by sharing your experience in GSoC.
